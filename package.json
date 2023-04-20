@@ -5,12 +5,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/craigary/nobelium.git"
+    "url": "https://github.com/daylenjeez/nobelium.git"
   },
   "author": {
-    "name": "Craig Hart",
-    "email": "i@craigary.net",
-    "url": "http://craigary.net"
+    "name": "Daylen Jeez",
+    "email": "stussury@gmail.com",
+    "url": "http://hulipark.cn"
   },
   "scripts": {
     "dev": "next dev",
