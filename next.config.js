@@ -1,4 +1,7 @@
 module.exports = {
+  env:{
+    NOTION_PAGE_ID:'1445178785b84826ab760760f2573910',
+  },
   images: {
     domains: ['gravatar.com']
   },
