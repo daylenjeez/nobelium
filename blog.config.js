@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'South Park',
   author: 'Daylen Jeez',
-  email: 'stussury@gmail.com',
+  email: '291947864@qq.com',
   link: 'https://hulipark.cn',
   description: "日拱一卒，功不唐捐",
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
@@ -17,7 +17,7 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://hulipark.cn/_next/image?url=%2Ftwitter.webp', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
   socialLink: 'https://twitter.com/daylen41',
   seo: {
     keywords: ['Blog', 'Front end', 'daylenJeez'],

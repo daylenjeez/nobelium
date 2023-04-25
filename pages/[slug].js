@@ -10,7 +10,7 @@ import Container from '@/components/Container'
 import Post from '@/components/Post'
 import Comments from '@/components/Comments'
 
-export default function BlogPost ({ post, blockMap, emailHash="4289bd60283bf5a18d253e35fbda9b7d" }) {
+export default function BlogPost ({ post, blockMap, emailHash}) {
   const router = useRouter()
   const BLOG = useConfig()
   const locale = useLocale()
