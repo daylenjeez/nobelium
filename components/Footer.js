@@ -18,7 +18,7 @@ const Footer = ({ fullWidth }) => {
           <p>
             © {BLOG.author} {from === y || !from ? y : `${from} - ${y}`}
           </p>
-          <p>闽ICP备20014162号</p>
+          <p><a href="https://beian.miit.gov.cn/">闽ICP备20014162号</a></p>
           {/* <Vercel /> */}
         </div>
       </div>
