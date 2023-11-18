@@ -1,7 +1,7 @@
 const BLOG = {
   title: "我的技术博客",
   author: "Daylen Jeez",
-  email: "291947864@qq.com",
+  email: "stussury@gmail.com",
   link: "https://hulipark.cn",
   description: "日拱一卒，功不唐捐",
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
